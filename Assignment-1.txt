@@ -1,5 +1,0 @@
-Here are some few line of code for debugging
-// BUG FIXED BY ISMAIL SAUD
-bug-fix by Ismail Saud
-// Feature added by Abdullah
-feature-add by abdullah
